@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/sven-bo/sven-bo/master/codingisfun_banner.png)](https://youtube.com/c/codingisfun)
+[![MastHead](https://github.com/karamyf/about/blob/main/images/header.png)](https://youssefkaram.me)
 <h1 align="center">Hi 👋, I'm Karam - a data science enthusiast!</h1>
 <h3 align="center">passionate about the power that data insights impart!</h3>
 
