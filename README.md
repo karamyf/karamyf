@@ -31,5 +31,5 @@
 </div>
 
 
-##
-![snake gif](https://github.com/karamyf/about/blob/output/github-contribution-grid-snake.gif)
+## a Snake sinking his teeth into my contributions
+![snake gif](https://github.com/karamyf/about/blob/output/github-contribution-grid-snake.svg)
