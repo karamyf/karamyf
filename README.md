@@ -15,7 +15,7 @@
 </h3>
 
 
-<!-- <h3 align="center">Connect with me:</h3> -->
+<!-- <h3 align="center">Connect with me: </h3> -->
 <p align="center">
   <a href = "mailto:youssefkaram.office@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/youssef-karam-674aba194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
