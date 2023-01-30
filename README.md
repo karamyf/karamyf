@@ -6,11 +6,12 @@
 
 
 <h1 align="center">
-  <span>Hi 👋, I'm Karam - a data science enthusiast!</span>
+  <span>HI, I'M KARAM - A DATA SCIENCE ENTHUSIAST!</span>
 </h1>
 
 <h3 align="center">
-  <span style="font-family: 'Pixelated';">passionate about the power that data insights impart!</span>
+  <span style="font-family: Verdana;">passionate about the power that data insights impart!</span>
+  
 </h3>
 
 
@@ -27,17 +28,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamyf&show_icons=true&locale=en&layout=compact&theme=github_dark" height="195px" alt="karamyf" />
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+ <h5 align="center">Languages and Tools:</h5>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="40" height="40"/> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=wordpress" alt="powerbi" width="40" height="40"/> </a>
 </p>
 
+<br>
 
+<h4 align="center">a snake sinking his teeth into my contributions</h4>
 
-
-## a Snake sinking his teeth into my contributions
 ![snake gif](https://github.com/karamyf/about/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
