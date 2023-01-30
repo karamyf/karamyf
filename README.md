@@ -35,12 +35,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="40" height="40"/> </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=wordpress" alt="powerbi" width="40" height="40"/> </a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/> </a>
 </p>
 
 <br>
 
-<h4 align="center">a snake sinking his teeth into my contributions</h4>
+<h4 align="center">a snake sinking its teeth into my contributions</h4>
 
 ![snake gif](https://github.com/karamyf/about/blob/output/github-contribution-grid-snake.svg)
 
