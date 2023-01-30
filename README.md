@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/karamyf/about/blob/main/images/header.png" alt="MastHead" width="500" height="200">
+  <img src="https://github.com/karamyf/about/blob/main/images/header.png" alt="MastHead">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Karam - a data science enthusiast!</h1>
