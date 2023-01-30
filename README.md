@@ -24,8 +24,8 @@
 <br><br>
 <p align="center">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=karamyf&show_icons=true&count_private=true&theme=github_dark" height="195px" alt="karamyf" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamyf&show_icons=true&locale=en&layout=compact&theme=github_dark" height="195px"  alt="karamyf" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karamyf&show_icons=true&count_private=true&theme=github_dark" height="195px" width="390px" alt="karamyf" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamyf&show_icons=true&locale=en&layout=compact&theme=github_dark" height="195px"  width="390px" alt="karamyf" />
 </div>
 </p>
  <h5 align="center">Languages and Tools:</h5>
