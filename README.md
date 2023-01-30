@@ -27,10 +27,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=karamyf&show_icons=true&count_private=true&theme=github_dark" alt="karamyf" />
-  
-  
-
-  <img src="https://github-readme-stats.vercel.app/api?username=karamyf&show_icons=true&locale=en&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="karamyf" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamyf&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="karamyf" />
 </div>
 
 
