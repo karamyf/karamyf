@@ -22,12 +22,12 @@
   <a href="https://youssefkaram.me" target="_blank"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logo=globe&logoColor=white" target="_blank"></a>
 </p>
 <br><br>
-
+<p align="center">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=karamyf&show_icons=true&count_private=true&theme=github_dark" height="195px" width="390px" alt="karamyf" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamyf&show_icons=true&locale=en&layout=compact&theme=github_dark" height="195px" width="390px" alt="karamyf" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karamyf&show_icons=true&count_private=true&theme=github_dark" height="195px" alt="karamyf" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamyf&show_icons=true&locale=en&layout=compact&theme=github_dark" height="195px"  alt="karamyf" />
 </div>
-
+</p>
  <h5 align="center">Languages and Tools:</h5>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a>
