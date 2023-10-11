@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-
 <h1 align="center">
   <span>HI, I'M KARAM - A DATA SCIENCE ENTHUSIAST!</span>
 </h1>
